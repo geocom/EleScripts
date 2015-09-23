@@ -5,7 +5,7 @@ Pull Request Processing Time
 
 * New Library - ASAP provided it does not conflict with other libraries
 * Update To Library
-	* No depreciation or Major Changes or New Feature - 1 Week
+	* (No depreciation or Major Changes) or (New Feature with no affect on other functions) - 1 Week
 	* Depreciation or Major Change - 1 Month(For all parties to respond)
 	* Security Fix affecting current version - 1-2 Days(depending or severity)
 
