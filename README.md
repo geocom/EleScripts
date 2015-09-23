@@ -23,7 +23,7 @@ To add a libary to the repo you must supply the libary in the format in the exam
 You must include the following
 
 * JS files.
-* Licence file.
+* Licence file(md preferred).
 * info.json.
 
 #Licensing.

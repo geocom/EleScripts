@@ -1,0 +1,13 @@
+{
+  "name": "jquery-qrcode",
+  "url": "http://larsjung.de/qrcode/",
+  "licence": "MIT",
+  "version": "0.11.0",
+  "description": "jQuery plugin to dynamically generate QR codes. Uses QR Code Generator (MIT).",
+  "files": [
+    {
+      "name": "jquery.qrcode",
+      "filename": "jquery.qrcode-0.11.0.js"
+    }
+  ]
+}
