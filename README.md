@@ -13,7 +13,7 @@ Pull Request Processing Time
 
 This repo exists because we want to make sure that there is no unintended consequences for developers using the same libraries. However we want to make sure that new features are added for those who want it. We feel this approach is the correct one as it removes any issues of the same library being duplicated and version issues from appearing.
 
-**This repo is by design conservative and is not designed to be bleeding edge. **
+** This repo is by design conservative and is not designed to be bleeding edge. **
 
 ###Do I Have Too?
 * If your application is going to be public. Yes you have to use this list.
