@@ -2,11 +2,12 @@
 This repo is provided as a static building block for your application. Any application that needs to run another javascript library where the code does not include your ID will need to upload the code here so that other applications can use the same code base for there application without conflicts.
 
 Pull Request Processing Time
-New Library - ASAP provided it does not conflict with other libraries
-Update To Library
-	No depreciation or Major Changes or New Feature - 1 Week
-	Depreciation or Major Change - 1 Month(For all parties to respond)
-	Security Fix affecting current version - 1-2 Days(depending or severity)
+
+* New Library - ASAP provided it does not conflict with other libraries
+* Update To Library
+	* No depreciation or Major Changes or New Feature - 1 Week
+	* Depreciation or Major Change - 1 Month(For all parties to respond)
+	* Security Fix affecting current version - 1-2 Days(depending or severity)
 
 ###Why 
 
