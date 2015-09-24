@@ -25,6 +25,7 @@ You must include the following
 
 * JS files.
 * Licence file(md preferred).
+* Description.md.
 * info.json.
 
 #Licensing.

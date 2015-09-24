@@ -1,0 +1,1 @@
+This plugin is a fully featured XPath 2.0 query language implementation which can be used to query both HTML and XML documents in all web browsers. It uses the DOM-agnostic XPath 2.0 engine xpath.js originally developed for Ample SDK UI Framework.

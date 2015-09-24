@@ -1,0 +1,1 @@
+jQuery plugin to dynamically generate QR codes. Uses QR Code Generator (MIT).
